@@ -1,3 +1,6 @@
 .pyirc
 pys_viacep.egg-info/*
 .idea/workspace.xml
+.idea/*
+.idea
+.idea/workspace.xml
