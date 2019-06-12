@@ -4,6 +4,16 @@
 
 Este não é um pacote oficial do `viacep`.
 
+### Como instalar
+
+```python
+pip install pysviacep
+```
+
+### Dependências
+* `requests`
+
+
 ### Exemplo de uso
 ```python
 from pysviacep import viacep
